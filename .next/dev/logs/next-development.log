@@ -1,0 +1,34 @@
+[00:00:01.338] Server  LOG      ✓ Ready in 922ms
+[00:00:05.893] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:06.363] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:08.818] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[00:01:03.897] Server  LOG      ✓ Compiled in 146ms
+[00:01:06.315] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[00:01:44.346] Server  LOG      ✓ Compiled in 54ms
+[00:01:57.151] Server  LOG      ✓ Compiled in 90ms
+[00:03:19.943] Server  LOG      ✓ Compiled in 93ms
+[00:03:20.033] Browser ERROR   The tag <%s> is unrecognized in this browser. If you meant to render a React component, start its name with an uppercase letter. twitter
+[00:03:28.878] Server  LOG      ✓ Compiled in 121ms
+[00:03:28.934] Browser ERROR   uncaughtError: ReferenceError: Twitter is not defined
+[00:03:34.997] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:03:35.106] Server  LOG      ✓ Compiled in 59ms
+[00:03:35.194] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:37.643] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[00:04:38.554] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:59.018] Server  LOG      ✓ Compiled in 78ms
+[00:05:15.821] Server  LOG      ✓ Compiled in 67ms
+[00:06:01.800] Server  LOG      ✓ Compiled in 77ms
+[00:06:10.262] Server  LOG      ✓ Compiled in 59ms
+[00:06:12.404] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:34.759] Server  LOG      ✓ Compiled in 30ms
+[00:06:38.714] Server  LOG      ✓ Compiled in 77ms
+[00:06:40.636] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:59.376] Server  LOG      ✓ Compiled in 110ms
+[00:06:59.465] Browser ERROR   uncaughtError: ReferenceError: Twitter is not defined
+[00:07:11.716] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:07:11.819] Server  LOG      ✓ Compiled in 85ms
+[00:07:11.901] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:02.297] Server  LOG      ✓ Compiled in 103ms
+[00:08:24.524] Server  LOG      ✓ Compiled in 107ms
+[00:12:36.981] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:45.351] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
