@@ -27,5 +27,5 @@ Cette application propose un **système de parrainage complet** conçu de A à Z
 
 1. **Cloner le projet**  
 ```bash
-git clone https://github.com/votre-utilisateur/votre-repo.git
-cd votre-repo
+git clone https://github.com/Den1sMd/ResponsiveApp
+cd ResponsiveApp
